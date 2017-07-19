@@ -2,7 +2,7 @@
 
 int main (void)
 {
-    char string[] = "Hello github world!\n"; 
+    static char string[] = "Hello github world!\n"; 
     puts(string);
     return 0;
 }
