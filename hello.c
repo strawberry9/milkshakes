@@ -2,6 +2,7 @@
 
 int main (void)
 {
-    printf("Hello github world!\n");
+    char string[] = "Hello github world!\n"; 
+    puts(string);
     return 0;
 }
