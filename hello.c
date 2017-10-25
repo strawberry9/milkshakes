@@ -1,8 +1,12 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-int main (void)
+const char *str = "Hello, world!";
+
+int main()
 {
-    static char string[] = "Hello github world!\n"; 
-    puts(string);
-    return 0;
+    printf("%s", str);
+    
+    return (EXIT_SUCCESS);
 }
+
