@@ -4,9 +4,7 @@
 int main()
 {
     const char *str = "Hello, world!";
-
     puts(str);
-    
     return (EXIT_SUCCESS);
 }
 
