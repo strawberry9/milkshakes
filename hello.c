@@ -5,7 +5,7 @@ const char *str = "Hello, world!";
 
 int main()
 {
-    printf("%s", str);
+    puts(str);
     
     return (EXIT_SUCCESS);
 }
