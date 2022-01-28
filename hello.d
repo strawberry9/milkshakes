@@ -25,5 +25,7 @@ void main()
  https://dlang.org/bugstats.html
  
  https://dlang.org/blog/the-d-and-c-series/
+ https://dlang.org/spec/betterc.html
+ https://dlang.org/dmd-windows.html#switch-betterC
  
 +/
