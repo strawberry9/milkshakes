@@ -11,18 +11,17 @@ void main()
 
 /+
 
-https://forum.dlang.org/group/general
-
-https://dlang.org/spec
-https://dlang.org/phobos/index.html
-https://dlang.org/dstyle.html
-
-https://wiki.dlang.org/Coming_From
-https://wiki.dlang.org/Get_involved
-https://wiki.dlang.org/Starting_as_a_Contributor
-
-https://issues.dlang.org/
-https://dlang.org/bugstats.html
-https://github.com/dlang
+ https://dlang.org/spec
+ https://dlang.org/phobos/index.html
+ https://dlang.org/spec/attribute.html
+ https://dlang.org/spec/memory-safe-d.html
+ https://dlang.org/spec/function.html#safe-functions
+ https://dlang.org/dmd-linux.html
+ https://dlang.org/dstyle.html
+ https://github.com/dlang
+ https://wiki.dlang.org/Starting_as_a_Contributor
+ https://issues.dlang.org/
+ https://issues.dlang.org/enter_bug.cgi
+ https://dlang.org/bugstats.html
 
 +/
