@@ -23,5 +23,7 @@ void main()
  https://issues.dlang.org/
  https://issues.dlang.org/enter_bug.cgi
  https://dlang.org/bugstats.html
-
+ 
+ https://dlang.org/blog/the-d-and-c-series/
+ 
 +/
