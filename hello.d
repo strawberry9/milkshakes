@@ -5,6 +5,7 @@ import std;
 
 // https://dlang.org/spec
 // https://dlang.org/phobos/index.html
+// https://forum.dlang.org/group/general
 // https://dlang.org/dstyle.html
 // https://github.com/dlang
 // https://wiki.dlang.org/Starting_as_a_Contributor
